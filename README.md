@@ -58,8 +58,8 @@ terraform destroy
 
 ## 📸 Screenshot
 
-![Heavenly Apple Website]
-<img src="Screenshot/website -ouput.jpg" alt="website" width="500">
+![Heavenly Apple Website] (Screenshort/website-output.jpg)
+
 ## 👨‍💻 Author
 
 Roshani Shinde
