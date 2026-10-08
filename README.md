@@ -58,7 +58,7 @@ terraform destroy
 
 ## 📸 Screenshot
 
-![Heavenly Apple Website] (Screenshort/website-output.jpg)
+![Heavenly Apple Website](Screenshort/website-output.jpg)
 
 ## 👨‍💻 Author
 
